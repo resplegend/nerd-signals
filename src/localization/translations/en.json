@@ -432,8 +432,134 @@
     "fuzzy": 0
   },
   {
-    "term": "",
-    "definition": "",
+    "term": "footer.copyright",
+    "definition": "© 2025 All rights reserved",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.mainframe",
+    "definition": "Mainframe",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.integrations",
+    "definition": "Integrations",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.roadmap",
+    "definition": "Roadmap",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.ourStory",
+    "definition": "Our Story",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.connect",
+    "definition": "Connect",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.facebook",
+    "definition": "Facebook",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.x",
+    "definition": "X",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.medium",
+    "definition": "Medium",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.ourMission",
+    "definition": "Our Mission",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.packages",
+    "definition": "Packages",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.support",
+    "definition": "Support",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.resources",
+    "definition": "Resources",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.dataProtection",
+    "definition": "Data Protection",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "footer.serviceTerms",
+    "definition": "Service Terms",
     "context": "",
     "term_plural": "",
     "reference": "",

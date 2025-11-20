@@ -8,7 +8,7 @@ import MetroNewsImage from '@/assets/images/metro_news.png'
 import NewsweekImage from '@/assets/images/newsweek.png'
 
 const ChooseUsSection: React.FC = () => {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
 
   return (
     <section id='chooseUs' className='relative z-10'>
@@ -16,7 +16,13 @@ const ChooseUsSection: React.FC = () => {
         <h4 className='text-4xl/[50px] font-semibold'>
           {t('chooseUs.title')}
           <br />
-          Be one of <span className='font-extrabold text-[#93B4FF]'>them</span>.
+          {i18n.language === 'en' ? (
+            <>
+              Be one of <span className='font-extrabold text-[#93B4FF]'>them</span>.
+            </>
+          ) : (
+            t('chooseUs.subtitle')
+          )}
         </h4>
       </div>
 

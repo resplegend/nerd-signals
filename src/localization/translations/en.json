@@ -63,78 +63,6 @@
     "fuzzy": 0
   },
   {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
     "term": "highlights.title",
     "definition": "The market moves. AI reacts.",
     "context": "",
@@ -245,15 +173,6 @@
   {
     "term": "steps.learnMore",
     "definition": "Learn More",
-    "context": "",
-    "term_plural": "",
-    "reference": "",
-    "comment": "",
-    "fuzzy": 0
-  },
-  {
-    "term": "",
-    "definition": "",
     "context": "",
     "term_plural": "",
     "reference": "",
@@ -425,6 +344,15 @@
   {
     "term": "chooseUs.title",
     "definition": "The best choose us.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "chooseUs.subtitle",
+    "definition": "Be one of them.",
     "context": "",
     "term_plural": "",
     "reference": "",
